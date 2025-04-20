@@ -11,6 +11,8 @@ I work part-time as a full-stack developer, where I build scalable and efficient
 
 🎓 Finishing my BSc in Computer Science has given me a strong foundation in software engineering and a curiosity to dive deeper into complex systems.
 
+🔭 I’m currently working on my BSc theses the codebase is public and can be found [here](https://bitbucket.org/eba-method/eba-code/src/master/).
+
 📫 Feel free to connect with me or check out my projects here on GitHub!
 - Email: [sander.poldma@gmail.com](mailto:sander.poldma@gmail.com)
 - LinkedIn: [linkedin.com/in/sander-põldma-27082b2a5](www.linkedin.com/in/sander-põldma-27082b2a5)
