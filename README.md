@@ -8,6 +8,7 @@ I work part-time as a full-stack developer, where I build scalable and efficient
 - Clean architecture and maintainable code
 - API integrations and backend automation
 - Exploring data science and machine learning when the opportunity arises
+- Recently, I've also gotten interested in the **cybersecurity** world — I even participated in a **CTF competition**, which was a super fun and eye-opening experience (hoping to dive deeper into it soon!)
 
 🎓 Finishing my BSc in Computer Science has given me a strong foundation in software engineering and a curiosity to dive deeper into complex systems.
 
